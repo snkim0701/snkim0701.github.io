@@ -1,5 +1,5 @@
 # Blog Post
 ## My first Blog Post
-* Post1
+* Kim's Blog
 * Post2
 * Post3
