@@ -4,11 +4,12 @@ date: 2024-10-05
 categories: [Living in Ethiopia]
 Tags: [Living]
 ---
+
+---
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Living in Ethiopia</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -39,15 +40,18 @@ Tags: [Living]
         <div class="post">
             <img src="assets/images/ThisIsFirst.jpg" alt="ET">
             <div class="post-content">
-                <h1> The first Post</h1>
-                <p> 안녕하세요. 현재 ET의 Adama 대학에서 재직 중인 S.Kim입니다</p>
+               <p> ET의 orthodox교 성지중의 하나인 Lalibela에 있는  한 호텔에서 내려다 본 
+멋진 광경. 넓게 펼쳐진 대평원과 구비 구비 힘겹게 오르는 도로들이 이 곳이 ET인들이 성지로 택한 이유인 것 같다.
+</p>
             </div>
         </div>
     </div>
 </body>
 </html>
 
-# 안녕하세요
+---
+
+# 안녕하세요 ASTU에 재직 중인 S.Kim 입니다.
 
 내가 Africa의 Ethiopia에 갈 줄이야! 2019년 3월 어느 날 e-mail 한 통을 받았는 데, ASTU 대학에서 전기과 교수   
 모집을 한다고 해서, 남산 하이야트 호텔 옆 고즈넉한 주한 Ethiopia 대사관에 신청을 하고 어쩌면 그 곳에 갈 수 
@@ -56,21 +60,20 @@ Tags: [Living]
 Ethiopia,  그 곳은 머나먼 아프리카의 동쪽에 위치한 나라. 남한 면적의 10배 정도이고, 인구는 1억 정도되는 
 미지의 나라. 도대체 어떤 나라일까?
 
-무수한 호기심에 한 달 후 비행기를 타고 10시간 후에 도착한 Addis. 
+무수한 호기심 속에  한 달 후 비행기를 타고 12시간 후에 도착한 Addis Ababa.
 그리고 약 100km 떨어진 Adama에 위치한 "Adama Science and Technology University", ASTU, 대학에서 
 학생들과 짧은 영어로 "Control" 관련 강의를 한 지가 벌써 5년이 지났다. 
 
-미국의 Michigan주, "University of Michigan, Ann Arbor" 에서 새로운 theory를 제안하고 박사학위를 받고 
-귀국 후, 이리 저리 혜메기를 25년간 생활. 그리고 이렇게 장기간 해외 생활을 하게 될 줄이야 
-어떻게 알았겠는가? 
+미국의 Michigan주, "University of Michigan, Ann Arbor" 에서 멋적은 나름 쓸모가 있다고 생각했던  theory를 제안하고 박사학위를 받고 
+귀국 후, 이리 저리 헤매기를 25년간 생활. 그리고 이렇게 장기간 해외 생활을 하게 될 줄이야 어떻게 알았겠는가? 
 
 기술을 선도하는 미국이란 나라와 경제적으로 궁핍한 ET에서 생활은 여러모로 차이가 있다. 수 년 전  
-Corona가 이 곳에서도 무섭게 퍼질 때, 옆 짐 이웃이  " My temperature is 37.5C
+Corona가 이 곳에서도 무섭게 퍼질 때, 옆 집 이웃이  " My temperature is also 37.5C
 degree"라며 부족한 의료시설을 한탄하는 하소연에 불현듯 이들의 고민을 느낄 수 있었고, 또한 그 속에 내포된 
 불가항력의 자포자기를 어렴풋이 가슴에 새겨졌다. 
 
-하지만 일년 내내 green, green 한 이 곳. 육체적 특징이 확연히 다른 여러 민족들이 함께 어울려 사는 이 곳.
+하지만 일년 내내 green, green 한 이 곳. 육체적으로나 문화적으로나 확연히 다른 여러 민족들이 함께 어울려 사는 이 곳.
 아직도 International 시간과 Local 시간을 동시에 사용하는 이 곳. 미지의 ET....
 
-잊기 전에 남겨 두고 자 한다. 
+잊기 전에 남겨 두고자 한다. 
 
